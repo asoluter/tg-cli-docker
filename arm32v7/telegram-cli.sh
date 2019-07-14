@@ -1,0 +1,1 @@
+docker run -it --rm -v $HOME/.telegram-cli:/home/user/.telegram-cli asoluter/telegram-cli
